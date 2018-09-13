@@ -8,5 +8,4 @@
 </html>
 
 
-![Ackley F](https://imgur.com/a/XXwrveu "Ackley F")
-
+<img src="https://imgur.com/a/XXwrveu" alt="Ackley F" title="Ackley F">
