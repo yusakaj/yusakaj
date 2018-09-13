@@ -8,5 +8,4 @@
   
 <p><img alt=”Ackley F” src=”https://imgur.com/a/XXwrveu /><p>
 
-<html>
 <body>
