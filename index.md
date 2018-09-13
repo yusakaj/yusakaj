@@ -8,4 +8,3 @@
 </html>
 
 
-background: url(../image/7ZqrQmU.png) no-repeat ;
