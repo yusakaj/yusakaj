@@ -8,4 +8,4 @@
 </html>
 
 
-<img src="7ZqrQmU.png" alt="Ackley f" title="Ackley f">
+background: url(../image/7ZqrQmU.png) no-repeat ;
